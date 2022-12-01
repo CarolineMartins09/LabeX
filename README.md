@@ -48,7 +48,7 @@ caroline-martins-barros@astrodev.com
 *Senha:*
 123456
 
-![](./src/Pages/imagens/Readme/LoginAdm.png)
+![](./labex/src/pages/imagens/Readme/LoginAdms.png)
 
 - Ao entrar o ADM tem acesso a todas as viagens podendo deleta-las ou ver mais detalhes.
 
@@ -60,4 +60,4 @@ caroline-martins-barros@astrodev.com
 
 - Detalhes das viagens contendo os candidatos que se inscreveram e aguardam aprovação podendo aceitar sua inscrição ou recusar.
 
-![](./src/Pages/imagens/Readme/TripDetail.png)
+![](./labex/src/pages/imagens/Readme/TripDetails.png)
