@@ -1,12 +1,12 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "./HomePages"
-import ControlAdm from "./AdminHomePage"
-import LoginAdm from "./LoginPage"
-import FormUser from "./ApplicationFormPage"
-import FormAdm from "./CreateTripPage"
-import DetailsAdm from "./TripDetailsPage"
-import ListaViagens from "./ListTripsPage";
+import Home from "./pages/HomePages"
+import ControlAdm from "./pages/AdminHomePage"
+import LoginAdm from "./pages/LoginPage"
+import FormUser from "./pages/ApplicationFormPage"
+import FormAdm from "./pages/CreateTripPage"
+import DetailsAdm from "./pages/TripDetailsPage"
+import ListaViagens from "./pages/ListTripsPage";
 
 
 function Router() {
