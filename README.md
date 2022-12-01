@@ -42,7 +42,7 @@ Dividido em área privada (Administrativo) e área pública.
 
  *área privada com acesso somente com autenticação.*
 
-- Somente funcionários somente podendo ter acesso com seu email e senha.
+- Somente funcionários somente podendo ter acesso com seu email e senha. </br>
 *Email:* </br>
 caroline-martins-barros@astrodev.com  </br>
 *Senha:*  </br>
