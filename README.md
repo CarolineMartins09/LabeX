@@ -32,7 +32,7 @@ Entre suas finalidades:
 
 - Usuário podendo visualisar as viagens.
 
-![](./src/Pages/imagens/Readme/ListTrip.png)
+![](./labex/src/pages/imagens/Readme/ListTrips.png)
 
 - Usuário podendo se candidatar a qualquer viagem cumprindo os requisitos do formulário.
 
