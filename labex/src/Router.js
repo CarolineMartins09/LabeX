@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./HomePages"
 import ControlAdm from "./AdminHomePage"
 import LoginAdm from "./LoginPage"
-import FormUsuario from "./ApplicationFormPage"
+import FormUser from "./ApplicationFormPage"
 import FormAdm from "./CreateTripPage"
 import DetailsAdm from "./TripDetailsPage"
 import ListaViagens from "./ListTripsPage";
@@ -15,7 +15,7 @@ function Router() {
             <Routes>
                 <Route index element={<Home />} />
                 <Route path="/trips/list" element={<ListaViagens />} />
-                <Route path="/trips/aplicacao" element={<FormUsuario />} />
+                <Route path="/trips/aplicacao" element={<FormUser />} />
                 <Route path="/login" element={<LoginAdm />} />
                 <Route path="/login/adm" element={<ControlAdm />} />
                 <Route path="/admin/trips/create" element={<FormAdm />} />
