@@ -21,14 +21,14 @@ Realizado no módulo de Frontend do curso de desenvolvimento Wep da Labenu.
 - Desktop 
 - Mobile (testes realizados em: Iphone XR, Iphone 5/6/7, Android) 
 
-# Funcionalidades:
+## Funcionalidades:
 Dividido em área privada (Administrativo) e área pública.
 
 ![](./labex/src/pages/imagens/Readme/HomePages.png)
 
-Entre suas finalidades:
+#Entre suas finalidades:
 
-# Área Pública:
+## Área Pública:
 
 - Usuário podendo visualisar as viagens.
 
@@ -38,15 +38,15 @@ Entre suas finalidades:
 
 ![](./labex/src/pages/imagens/Readme/FormPages.png)
 
-# Área Privada (administrativo):
+## Área Privada (administrativo):
 
  *área privada com acesso somente com autenticação.*
 
 - Somente funcionários somente podendo ter acesso com seu email e senha.
-*Email:*
-caroline-martins-barros@astrodev.com
-*Senha:*
-123456
+*Email:* </br>
+caroline-martins-barros@astrodev.com  </br>
+*Senha:*  </br>
+123456  </br>
 
 ![](./labex/src/pages/imagens/Readme/LoginAdms.png)
 
