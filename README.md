@@ -24,7 +24,7 @@ Realizado no módulo de Frontend do curso de desenvolvimento Wep da Labenu.
 # Funcionalidades:
 Dividido em área privada (Administrativo) e área pública.
 
-![](./labex/src/pages/imagens/HomePage.png)
+![](./labex/src/pages/imagens/Readme/HomePages.png)
 
 Entre suas finalidades:
 
@@ -36,7 +36,7 @@ Entre suas finalidades:
 
 - Usuário podendo se candidatar a qualquer viagem cumprindo os requisitos do formulário.
 
-![](./src/Pages/imagens/Readme/FormPage.png)
+![](./labex/src/pages/imagens/Readme/FormPages.png)
 
 # Área Privada (administrativo):
 
@@ -52,7 +52,7 @@ caroline-martins-barros@astrodev.com
 
 - Ao entrar o ADM tem acesso a todas as viagens podendo deleta-las ou ver mais detalhes.
 
-![](./src/Pages/imagens/Readme/ListAdm.png)
+![](./labex/src/pages/imagens/Readme/ListAdms.png)
 
 - Formulário para criar novas viagens apartir de requisitos básicos.
 
